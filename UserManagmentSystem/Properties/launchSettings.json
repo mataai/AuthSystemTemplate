@@ -1,0 +1,54 @@
+{
+  "profiles": {
+    "UserManagmentSystem": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DB_HOST": "localhost",
+        "DB_NAME": "SkiUpUsers",
+        "DB_USER": "user",
+        "DB_PASSWORD": "P@ssw0rd"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7139;http://localhost:5061"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+      "environmentVariables": {
+        "DB_HOST": "localhost",
+        "DB_NAME": "Templates",
+        "DB_USER": "user",
+        "DB_PASSWORD": "P@ssw0rd"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:7139/swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "https://localhost:7139;http://localhost:5061",
+        "DB_HOST": "192.168.1.21",
+        "DB_NAME": "SkiUpUsers",
+        "DB_PASSWORD": "P@ssw0rd",
+        "DB_USER": "user"
+      },
+      "distributionName": ""
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:6108",
+      "sslPort": 44314
+    }
+  }
+}

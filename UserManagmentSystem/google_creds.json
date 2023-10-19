@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skiapp-bd9b5",
+  "private_key_id": "00bcc85c4b6f474a4f16641f40f73b9700359e2a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdrMYeIgA9PtxM\n1lpy28AEwr8LVE7BCZYw1wgWzG+uose6izn2ELKX14hKo3w+CxVPzjThRa366rrf\nEveffT4pz35hkaRCRL08n4sz0mfu99NqC+NT7sym8tqHf+jAp+2MSzciaOnm1jdK\noPwDv14AuFG+JujuuD5MkBRf+tWB3jeQlstbZjJ6ck9sp4NN/gdvMPYmkG88TDUb\nqGBXmNvbzR8fSED8d1RdQUd8BMsfqgSi5MeS8S0qEbmCpF36rfPMzFEwSzD+qMtl\nAiiW1IMQ8zTX+bJsJvf5k42X7F/12dGLmm4IQcyVR7K65Eagz1qfzOQCC1njQbmY\n+z2FDX77AgMBAAECggEAFEE6bsAvEq8NYsDTJq0XCiWFoCweNSBeTvuDOlaHGZfR\n8M3reLIlbGm6GYh4hd8rnNsK96NZWax8q/pbnVKGlp1lM/MfIYouBb3NsS8Gve/P\nv0WJWDdgH9QpAWi2MBrXt61+htOTtIfGhjY5mYukROhooR+OIwMVBwXShY/gjImZ\nL3/2l5R47BFD3t0caYtTKNFaQGAg8yv5nCHW407UDxu4IvKNrGbJOzjGz8iOJ6vP\nZb1LkUhNjO6k7TFmFeFd2GXhZMII952FZmPKPWVYALthVjzLenMd9NFd4JZyfsIR\nW4ZhvswTMgKVUkoZMlUBMu42BM8CZXrAnXPUZBWFzQKBgQDLUaXL7VE/sJEkPhZk\n/hmn9h0b8N3BNAaetG8+cV8IKPpTDUuZtdaqx0NzQWKmMe+VZrrpltSXczT2ZnZu\nC5dGRA1880eAHw2hk6nm3yiTSfY2Rtq3NOQoldAqqNumXMEn4UCJX4k9isbMvDcd\no9xSjx5Rk9lTjYUdy0uXTBT3ZwKBgQDGh4K6/tZT/d3TX/XOX/ScFPlYOUjhZHdU\n3uU8cOe6txekwfzgt860zmSgmsMg8X/6ZAXIpB6wJFCtPdTK8bm0HVEzBV6zSACS\n2DyNErC+gko71d/l/RuaEjwOAr6hh2brWVeMczqDQBGis2DjGO3BOLY0uPUtWUZW\nvZoa3DQjTQKBgQCQ1iMDuJUuh7t9U/VkEFd6fSqTYuy12zf0CplMpDqMd5SLYWc/\none/xJ9aFXQO7He9uCbijB35nYpXFPq8vekPlx78qdl/fZ+aQLTB0Kr48bFBTQw1\ngqod90sJeKywQFcg76entLTxcFDaPCIPLVGgRm/UsTwZ9zCi3tWEfCBbdQKBgBg4\n2F5wUT4WL0Zm4tq3ImUYugNlmdrGIzkbqORi8iL5y8yyTmQsiO/ObsCZoU0XqgGm\nyn3caFIdXCqG7LuGGp47JXkQIqnFEyzXbSvZJ+9WfjAmvBaXdxKpPuKGuzOCDbCR\nSfk85dq1qnEraZrLo9Z7UN/F4UQTLF3Q7EhyrXnRAoGAaVRoBPGfJIiLe+TybfEx\ny0rJay/+ANF4ZiJ4vP5MbqUkp6n0kPPsf8TeczKs3/jk66g0EeMkAZAvpGn2Rf24\nbyL8sR+30PNlPVSHvrTgugrVAe2Q/DRsnia3LQsN2uMJlW04JThA+3NRfmhxFpj2\nKQ5+fo043vdL+IhZXpgCuso=\n-----END PRIVATE KEY-----\n",
+  "client_email": "skiapp-bd9b5@appspot.gserviceaccount.com",
+  "client_id": "113865023034397463905",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/skiapp-bd9b5%40appspot.gserviceaccount.com"
+}
